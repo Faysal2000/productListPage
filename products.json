@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"FA01 LOUNGE CHAIR",
+        "price":100,
+        "image":"img/1.png",
+        "description":"A good chair offers comfort, support, and durability with ergonomic design, adjustable features, and quality materials, ensuring a comfortable and practical seating experience."
+    },
+    {
+        "id":2,
+        "name":"FA02 LOUNGE CHAIR",
+        "price":100,
+        "image":"img/2.png",
+        "description":"A good chair offers comfort, support, and durability with ergonomic design, adjustable features, and quality materials, ensuring a comfortable and practical seating experience."
+    },
+    {
+        "id":3,
+        "name":"FA03 LOUNGE CHAIR",
+        "price":100,
+        "image":"img/3.png",
+        "description":"A good chair offers comfort, support, and durability with ergonomic design, adjustable features, and quality materials, ensuring a comfortable and practical seating experience."
+    },
+    {
+        "id":4,
+        "name":"FA04 LOUNGE CHAIR",
+        "price":100,
+        "image":"img/4.png",
+        "description":"A good chair offers comfort, support, and durability with ergonomic design, adjustable features, and quality materials, ensuring a comfortable and practical seating experience."
+    },
+    {
+        "id":5,
+        "name":"FA05 LOUNGE CHAIR",
+        "price":100,
+        "image":"img/5.png",
+        "description":"A good chair offers comfort, support, and durability with ergonomic design, adjustable features, and quality materials, ensuring a comfortable and practical seating experience."
+    },
+    {
+        "id":6,
+        "name":"FA06 LOUNGE CHAIR",
+        "price":100,
+        "image":"img/6.png",
+        "description":"A good chair offers comfort, support, and durability with ergonomic design, adjustable features, and quality materials, ensuring a comfortable and practical seating experience."
+    },{
+        "id":7,
+        "name":"FA07 LOUNGE CHAIR",
+        "price":100,
+        "image":"img/7.png",
+        "description":"A good chair offers comfort, support, and durability with ergonomic design, adjustable features, and quality materials, ensuring a comfortable and practical seating experience."
+    },{
+        "id":8,
+        "name":"FA08 LOUNGE CHAIR",
+        "price":100,
+        "image":"img/8  .png",
+        "description":"A good chair offers comfort, support, and durability with ergonomic design, adjustable features, and quality materials, ensuring a comfortable and practical seating experience."
+    }
+]
